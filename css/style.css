@@ -263,6 +263,7 @@ header .menu a:active {
 
 #section3 iframe {
   border-radius: 10px;
+  background-color: transparent;
 }
 
 #section3 .title {

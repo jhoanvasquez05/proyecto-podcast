@@ -208,7 +208,9 @@ header {
     letter-spacing: 0;
     justify-self: start;
   }
-  iframe{ border-radius: 10px; }
+  iframe{ border-radius: 10px;
+  background-color: transparent;
+  }
   .title{ grid-area: title;}
   .iframe1 { grid-area: iframe1; justify-self: end; padding: 0%; width:584px; height:232px;}
   .iframe2 { grid-area: iframe2; justify-self: start; padding: 0%;}
