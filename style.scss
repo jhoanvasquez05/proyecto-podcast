@@ -210,6 +210,7 @@ header {
   }
   iframe{ border-radius: 10px;
   background-color: transparent;
+  border:none;
   }
   .title{ grid-area: title;}
   .iframe1 { grid-area: iframe1; justify-self: end; padding: 0%; width:584px; height:232px;}
